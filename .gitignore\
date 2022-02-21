@@ -1,2 +1,4 @@
-/ranhigs-test
+ranhigs-test/
+scrape.py
+stocks.csv
 

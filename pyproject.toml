@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "streamlit_microprojects"
+version = "0.1.0"
+description = ""
+authors = ["z-marina <8713530-zmarina@users.noreply.gitlab.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.5.1"
+yfinance = "^0.1.70"
+pandas = "^1.4.1"
+requests = "^2.27.1"
+bs4 = "^0.0.1"
+pip = "^22.0.3"
+Pillow = "^9.0.1"
+image = "^1.5.33"
+matplotlib = "^3.5.1"
+seaborn = "^0.11.2"
+sklearn = "^0.0"
+rdkit-pypi = "^2021.9.4"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
